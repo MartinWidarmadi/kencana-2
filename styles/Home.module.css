@@ -1,0 +1,14 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.userList {
+  list-style: none;
+  padding: 0;
+}
+
+.userList li {
+  margin-bottom: 10px;
+}
